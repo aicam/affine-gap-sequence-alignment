@@ -1,4 +1,8 @@
 
+
+
+
+
 def read_fasta(fp):
     name, seq = None, []
     for line in fp:
